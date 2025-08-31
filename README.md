@@ -12,14 +12,9 @@ This repo is forked and inspired by [Vansh & Ouckah's Repo]((https://github.com/
 
 ### Legend
  - 🛂 - Does NOT offer Sponsorship
- - 🇺🇸 - Requires U.S. Citizenship
+ - SG - Requires SG Citizenship
  - 🔒 - Internship application is closed
 
-> For off-season internships, please see the [Off-Season README](./OFFSEASON_README.md).
-
-> For new-grad tech jobs, check out [New-Grad](https://github.com/cvrve/New-Grad).
-
-[⬇️ Jump to bottom ⬇️](https://github.com/vanshb03/Summer2026-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |

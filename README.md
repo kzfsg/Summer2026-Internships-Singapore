@@ -2,7 +2,7 @@
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the Singapore or Remote positions :earth_americas:
 
-🙏 **Contribute by submitting an [issue](https://github.com/vanshb03/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/kzfsg/Summer2026-Internships-Singapore/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 This repo is forked and inspired by [Vansh & Ouckah's Repo]((https://github.com/vanshb03/Summer2026-Internships)).
 
